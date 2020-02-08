@@ -1,6 +1,6 @@
-### o
+### gettyimages
 ---
-
+https://github.com/gettyimages
 
 ```
 ```
